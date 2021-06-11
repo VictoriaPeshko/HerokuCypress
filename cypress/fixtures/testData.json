@@ -1,0 +1,6 @@
+{
+  "login": "tomsmith",
+  "password": "SuperSecretPassword!",
+  "invalidLogin": "victoria",
+  "invalidPassword": "qwerty!"
+}
